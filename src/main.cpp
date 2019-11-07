@@ -8,7 +8,7 @@ int main() {
     printf("%d\n", getTriangleType(3, 4, 5));
     return 0;
 }
-#endif // test
+#endif // test1323213
 
 int addNumber(int a, int b) {
     return a + b;
